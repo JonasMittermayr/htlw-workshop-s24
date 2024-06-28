@@ -27,6 +27,5 @@ app.listen(envUtil.PORT, async () => {
 
 
 dotenv.config();
-console.log(typeof envUtil.PORT);
 
 
